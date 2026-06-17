@@ -57,7 +57,6 @@ MOUSE MODE
 |Open palm    | Change mode to presentation |
 PRESENTATION MODE
 | Gesture | Action |
-|----------|----------|
 | Index finger + Middle finger | Next page |
 | Index finger + Pinky finger  | Previous page |
 
