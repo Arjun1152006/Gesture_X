@@ -113,9 +113,7 @@ python main.py
 ---
 
 ## DEMO VIDEO
-
-
-https://github.com/user-attachments/assets/41c0af13-5684-4fd9-84dd-5b86b951502a
+https://github.com/user-attachments/assets/759f79f9-1f66-4ec1-bcb3-af7e73d80380
 
 
 
